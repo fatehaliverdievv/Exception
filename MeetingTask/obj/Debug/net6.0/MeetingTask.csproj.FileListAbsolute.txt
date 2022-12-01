@@ -1,0 +1,15 @@
+C:\Users\Fateh\Desktop\C#\MeetingTask\MeetingTask\bin\Debug\net6.0\MeetingTask.exe
+C:\Users\Fateh\Desktop\C#\MeetingTask\MeetingTask\bin\Debug\net6.0\MeetingTask.deps.json
+C:\Users\Fateh\Desktop\C#\MeetingTask\MeetingTask\bin\Debug\net6.0\MeetingTask.runtimeconfig.json
+C:\Users\Fateh\Desktop\C#\MeetingTask\MeetingTask\bin\Debug\net6.0\MeetingTask.dll
+C:\Users\Fateh\Desktop\C#\MeetingTask\MeetingTask\bin\Debug\net6.0\MeetingTask.pdb
+C:\Users\Fateh\Desktop\C#\MeetingTask\MeetingTask\obj\Debug\net6.0\MeetingTask.csproj.AssemblyReference.cache
+C:\Users\Fateh\Desktop\C#\MeetingTask\MeetingTask\obj\Debug\net6.0\MeetingTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fateh\Desktop\C#\MeetingTask\MeetingTask\obj\Debug\net6.0\MeetingTask.AssemblyInfoInputs.cache
+C:\Users\Fateh\Desktop\C#\MeetingTask\MeetingTask\obj\Debug\net6.0\MeetingTask.AssemblyInfo.cs
+C:\Users\Fateh\Desktop\C#\MeetingTask\MeetingTask\obj\Debug\net6.0\MeetingTask.csproj.CoreCompileInputs.cache
+C:\Users\Fateh\Desktop\C#\MeetingTask\MeetingTask\obj\Debug\net6.0\MeetingTask.dll
+C:\Users\Fateh\Desktop\C#\MeetingTask\MeetingTask\obj\Debug\net6.0\refint\MeetingTask.dll
+C:\Users\Fateh\Desktop\C#\MeetingTask\MeetingTask\obj\Debug\net6.0\MeetingTask.pdb
+C:\Users\Fateh\Desktop\C#\MeetingTask\MeetingTask\obj\Debug\net6.0\MeetingTask.genruntimeconfig.cache
+C:\Users\Fateh\Desktop\C#\MeetingTask\MeetingTask\obj\Debug\net6.0\ref\MeetingTask.dll
